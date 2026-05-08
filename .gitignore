@@ -1,0 +1,17 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.apk
+*.aab
+*.unitypackage
+*.app
+.vs/
+.idea/
+*.sln
+*.csproj
+.DS_Store
+Thumbs.db
